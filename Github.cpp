@@ -6,6 +6,16 @@
 int main()
 {
     std::cout << "Hello Git Hub!\n";
+
+    std::cout << "GC1C_14_ﾏｴﾀﾞ_ﾄｼﾛｳ\n";
+
+    std::cout << "2023/10/11\n";
+
+    std::cout << "プルしてください\n";
+
+    std::cout << "プルします\n";
+
+    std::cout << "プルリクエストおさらい\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
