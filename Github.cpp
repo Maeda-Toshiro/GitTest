@@ -15,6 +15,8 @@ int main()
 
     std::cout << "プルします\n";
 
+    std::cout << "bbbbb\n";
+
     
 }
 
